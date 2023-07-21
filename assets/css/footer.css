@@ -1,0 +1,13 @@
+footer{
+    background-color: black;
+    color: aliceblue;
+    display: inline-flex;
+    flex-direction: row;
+    align-items: baseline;
+    width: 100vw;
+}
+footer a{
+    color: aliceblue;
+    margin: 20px;
+    text-decoration: none;
+}
